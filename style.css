@@ -31,9 +31,14 @@
     height: 100px;
     background-color: greenyellow;
     margin: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 70px;
     
 }
 .class{
+    
     display: flex;
     justify-content: center;
 }
