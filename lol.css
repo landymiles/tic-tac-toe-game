@@ -1,0 +1,12 @@
+.nonso{
+    background-color: yellow;
+    color:black;
+    border-style: none;
+    padding: 10px;
+}
+.nome{
+    background-color: purple;
+    display: flex;
+    justify-content: center;
+    padding: 90px;
+}

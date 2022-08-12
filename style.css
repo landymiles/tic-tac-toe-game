@@ -35,7 +35,8 @@
     align-items: center;
     justify-content: center;
     font-size: 70px;
-    
+    color:blue;
+    font-style: italic;
 }
 .class{
     
@@ -43,5 +44,5 @@
     justify-content: center;
 }
 .mom{
-    background-color: grey;
+    background-image: linear-gradient(45deg,yellow,coral,tomato);
 }
